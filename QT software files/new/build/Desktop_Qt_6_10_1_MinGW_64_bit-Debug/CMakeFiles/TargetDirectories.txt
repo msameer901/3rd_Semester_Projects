@@ -1,0 +1,5 @@
+C:/Users/HP/Desktop/DSA/Project/QT software new/new/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/BankSystem.dir
+C:/Users/HP/Desktop/DSA/Project/QT software new/new/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/DSA/Project/QT software new/new/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Desktop/DSA/Project/QT software new/new/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/BankSystem_autogen_timestamp_deps.dir
+C:/Users/HP/Desktop/DSA/Project/QT software new/new/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/BankSystem_autogen.dir
